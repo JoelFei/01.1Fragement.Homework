@@ -1,0 +1,4 @@
+#Wed Jul 29 23:25:53 SGT 2020
+base.0=C\:\\Users\\Asus\\Desktop\\DIB2 sem 1\\Mobile application practical\\FragmentExample2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
